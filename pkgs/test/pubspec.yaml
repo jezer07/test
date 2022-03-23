@@ -43,7 +43,7 @@ dev_dependencies:
   test_process: ^2.0.0
 
 dependency_overrides:
-  test_core:
-    path: ../test_core
+#   test_core:
+#     path: ../test_core
   #test_api:
    # path: ../test_api
