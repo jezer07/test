@@ -36,7 +36,7 @@ dependencies:
   test_core:
       git:
         url: https://github.com/jezer07/test
-        path: pkgs/test
+        path: pkgs/test_core
 
 dev_dependencies:
   fake_async: ^1.0.0
