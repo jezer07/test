@@ -30,11 +30,8 @@ dependencies:
   # matcher is tightly constrained by test_api
   matcher: any
   # Use an exact version until the test_api package is stable.
-  test_api: 0.4.9
+  test_api: 0.4.8
 
 dev_dependencies:
   lints: '>=1.0.0 <3.0.0'
 
-dependency_overrides:
-  test_api:
-    path: ../test_api
