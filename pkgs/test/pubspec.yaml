@@ -34,7 +34,9 @@ dependencies:
   # Use an exact version until the test_api and test_core package are stable.
   test_api: 0.4.8
   test_core:
-    path: ../test_core
+      git:
+        url: https://github.com/jezer07/test
+        path: pkgs/test
 
 dev_dependencies:
   fake_async: ^1.0.0
