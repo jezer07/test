@@ -31,8 +31,8 @@ dev_dependencies:
   test: any
   test_core: any
 
-dependency_overrides:
-  test:
-    path: ../test
-  test_core:
-    path: ../test_core
+# dependency_overrides:
+#   test:
+#     path: ../test
+#   test_core:
+#     path: ../test_core
